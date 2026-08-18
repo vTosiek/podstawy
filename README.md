@@ -8,4 +8,4 @@ Stworzyłem to miejsce, aby:
 * Śledzić własny progres w nauce programowania.
 * Trzymać wszystkie przydatne skrypty i fragmenty kodu w jednym, łatwo dostępnym miejscu.
 * Uczyć się dobrych praktyk korzystania z Git i GitHuba.
-**Dzięki za odwiedziny! Jeśli masz jakieś wskazówki do mojego kodu, śmiało otwórz Issue lub zostaw komentarz.
+###Dzięki za odwiedziny! Jeśli masz jakieś wskazówki do mojego kodu, śmiało otwórz Issue lub zostaw komentarz.
